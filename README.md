@@ -1,4 +1,4 @@
-## 🙏Welcome to my github profile.
+## 🙏Welcome to my github profile
 
 Hello. I'm Phumrapee Soenvanichakul.
 
@@ -7,7 +7,7 @@ Hello. I'm Phumrapee Soenvanichakul.
 
 [--> Personal site](https://www.google.com)
 
-## 📱Contact.
+## 📱Social
 [--> Facebook](https://web.facebook.com/phumrapee.soenvanichakul.3/)
 
 [--> Instragram](https://www.instagram.com/phumrapeephum/)
