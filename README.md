@@ -1,6 +1,6 @@
 ## 🙏Welcome to my github profile.
 
-Hello. I'm Phumrapee Soenvanichakul. I'm studying make websites and other programming.
+Hello. I'm Phumrapee Soenvanichakul.
 
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning Front-End, Back-End & more.
