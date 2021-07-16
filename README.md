@@ -3,7 +3,7 @@
 Hello. I'm Phumrapee Soenvanichakul.
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learnin everything i need.
+- 🌱 I’m currently learning everything i need.
 
 [--> Personal site](https://phumport.tsgintertrade.com/)
 
