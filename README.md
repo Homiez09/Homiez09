@@ -3,9 +3,9 @@
 Hello. I'm Phumrapee Soenvanichakul.
 
 <!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning Front-End, Back-End & more.
+- 🌱 I’m currently learning machine learning.
 
-[--> Personal site](https://www.google.com)
+[--> Personal site](https://phumport.tsgintertrade.com/)
 
 ## 📱Social
 [--> Facebook](https://web.facebook.com/phumrapee.soenvanichakul.3/)
