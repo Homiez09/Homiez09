@@ -5,7 +5,7 @@ Hello. I'm Phumrapee Soenvanichakul.
 <!-- 🔭 I’m currently working on ... -->
 - 🌱 I’m currently learning everything i need.
 
-[--> Personal site](https://phumport.tsgintertrade.com/)
+[--> Personal site]
 
 ## 📱Social
 [--> Facebook](https://web.facebook.com/phumrapee.soenvanichakul.3/)
