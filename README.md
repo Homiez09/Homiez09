@@ -1,15 +1,14 @@
-## 🙏Welcome to my github profile
+[ACTIVE PROJECTS]
+- [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)
 
-Hello. I'm Phumrapee Soenvanichakul.
 
-<!-- 🔭 I’m currently working on ... -->
-- 🌱 I’m currently learning everything i need.
 
-[--> Personal site]
 
-## 📱Social
-[--> Facebook](https://web.facebook.com/phumrapee.soenvanichakul.3/)
 
-[--> Instragram](https://www.instagram.com/phumrapeephum/)
+[WHAT??]
+[![MY STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=jannnn1235&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/Jannnn1235)
+
+
+
 
 
