@@ -1,8 +1,8 @@
 ### Projects 
-- [General bot DiscordJS](https://github.com/Jannnn1235/NewbieDiscordBot)
-- [Example Economy Discord.py](https://github.com/Jannnn1235/EconomyDiscord.py)
-- [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)
--
+- [NENE Bot](https://github.com/Jannnn1235/NENEbot-DiscordPy)     
+- [General Bot](https://github.com/Jannnn1235/NewbieDiscordBot)   
+- [Economy Bot](https://github.com/Jannnn1235/EconomyDiscord.py) 
+- [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)        
 -
 -
 -
