@@ -1,9 +1,9 @@
 ### Projects 
 - [Economy Bot [JS]](https://github.com/Jannnn1235/DiscordJS-Economy-Bot)
 - [NENE Bot](https://github.com/Jannnn1235/NENEbot-DiscordPy)     
-- [General Bot](https://github.com/Jannnn1235/NewbieDiscordBot)   
-- [Economy Bot [PY]](https://github.com/Jannnn1235/EconomyDiscord.py) 
 - [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)        
+-
+-
 -
 -
 -
