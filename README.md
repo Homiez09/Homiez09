@@ -1,4 +1,4 @@
-### Projects (easy)
+### Projects
 - [TimeTable Bot](https://github.com/Jannnn1235/TimeTable)
 - [Economy Bot](https://github.com/Jannnn1235/DiscordJS-Economy-Bot)
 - [NENE Bot](https://github.com/Jannnn1235/NENEbot-DiscordPy)     
