@@ -1,3 +1,4 @@
+#### DISCORD SERVER [JOIN](https://discord.gg/MFCET94GZg)
 ### Projects
 - [NENE Bot](https://github.com/Jannnn1235/NENEbot-DiscordPy)     
 - [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)        
