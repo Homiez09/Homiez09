@@ -6,7 +6,7 @@
 ## ABOUT ME
 --- None ---
 ## PROJECT
-- [NENE Bot](https://github.com/Jannnn1235/NENEbot-DiscordPy)     
+- [NENE Bot](https://github.com/Jannnn1235/NENEbot)     
 - [BLOGTEXTCHAT](http://mytestproject.tsgintertrade.com)        
 -
 -
