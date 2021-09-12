@@ -16,9 +16,10 @@
 -
 
 
-
-
-[![MY STATS](https://github-readme-stats.vercel.app/api/top-langs/?username=jannnn1235&layout=compact&langs_count=10&hide_border=true&custom_title=Languages&bg_color=00000000)](https://github.com/Jannnn1235)
+## STATS
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jannnn1235&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="movingmelody" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jannnn1235&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+</p>
 
 ## CONTACT
 
@@ -31,6 +32,8 @@
 <a href="mailto:phumrapeesoen1@gmail.com">
   <img align="left" alt="Gmail" width="22px" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" />
 </a>
+
+[see more.](https://jannnn1235.github.io/contact/)  
 
 
 
