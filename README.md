@@ -17,8 +17,8 @@
 
 
 ## STATS
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jannnn1235&show_icons=true&locale=en&layout=compact&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="movingmelody" /></p>
-<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jannnn1235&&show_icons=true&count_private=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515">
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=Jannnn1235&show_icons=true&locale=en&layout=compact&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=#FFF" alt="movingmelody" /></p>
+<p>&nbsp;<img src="https://github-readme-stats.vercel.app/api?username=Jannnn1235&&show_icons=true&count_private=true&title_color=151515&icon_color=bb2acf&text_color=151515&bg_color=#FFF">
 </p>
 
 ## CONTACT
