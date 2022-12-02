@@ -11,6 +11,8 @@ I'm Phumrapee Soenvanichakul!
 
 <h2>👀 Stats</h2>
 
+![enter image description here](https://wakatime.com/share/@HomieZ09/d983fd94-3908-4033-b632-746507a05fe0.svg)
+
 ![enter image description here](https://wakatime.com/share/@HomieZ09/39a523df-5bc9-4401-99bd-20ea5615b65f.svg)
 
 <h2>📫 How to reach me:</h2>
