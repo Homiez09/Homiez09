@@ -13,7 +13,7 @@ I'm Phumrapee Soenvanichakul!
 
 ![enter image description here](https://wakatime.com/share/@HomieZ09/39a523df-5bc9-4401-99bd-20ea5615b65f.svg)
 
-![enter image description here](https://wakatime.com/share/@HomieZ09/d983fd94-3908-4033-b632-746507a05fe0.svg)
+![enter image description here](https://wakatime.com/share/@HomieZ09/fcba30a3-918c-4be0-90f0-55c812c2af6c.svg)
 
 <h2>📫 How to reach me:</h2>
 
