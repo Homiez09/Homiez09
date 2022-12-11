@@ -11,18 +11,6 @@ I'm Phumrapee Soenvanichakul!
 
 <h2>👀 Stats</h2>
 
-![enter image description here](https://wakatime.com/share/@HomieZ09/39a523df-5bc9-4401-99bd-20ea5615b65f.svg)
-
-![enter image description here](https://wakatime.com/share/@HomieZ09/fcba30a3-918c-4be0-90f0-55c812c2af6c.svg)
-
-<h2>📫 How to reach me:</h2>
-
-<a href="mailto:phumrapeesoen1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
-<a href="https://web.facebook.com/phumrapee.soenvanichakul.3/">![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)</a>
-
-<a href="https://discord.gg/EWnAEUtFVm">![Discord](https://discord.c99.nl/widget/theme-1/297740667784921089.png)</a> 
-
-
 <!--START_SECTION:waka-->
 
 ```text
@@ -35,3 +23,12 @@ C++          0 secs          ░░░░░░░░░░░░░░░░░
 ```
 
 <!--END_SECTION:waka-->
+
+![enter image description here](https://wakatime.com/share/@HomieZ09/fcba30a3-918c-4be0-90f0-55c812c2af6c.svg)
+
+<h2>📫 How to reach me:</h2>
+
+<a href="mailto:phumrapeesoen1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
+<a href="https://web.facebook.com/phumrapee.soenvanichakul.3/">![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)</a>
+
+<a href="https://discord.gg/EWnAEUtFVm">![Discord](https://discord.c99.nl/widget/theme-1/297740667784921089.png)</a> 
