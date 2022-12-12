@@ -24,8 +24,6 @@ Git Config      12 hrs 43 mins  ▓░░░░░░░░░░░░░░░
 
 <!--END_SECTION:waka-->
 
-![enter image description here](https://wakatime.com/share/@HomieZ09/fcba30a3-918c-4be0-90f0-55c812c2af6c.svg)
-
 <h2>📫 How to reach me:</h2>
 
 <a href="mailto:phumrapeesoen1@gmail.com">![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> 
