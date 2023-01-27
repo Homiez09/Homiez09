@@ -33,4 +33,4 @@ TypeScript      15 hrs 4 mins   ▓░░░░░░░░░░░░░░░
 
 <h2>🏆 Github Trophies:</h2>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=saacsos&theme=discord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Homiez09&theme=discord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
