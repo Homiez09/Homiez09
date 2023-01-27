@@ -30,3 +30,7 @@ TypeScript      15 hrs 4 mins   ▓░░░░░░░░░░░░░░░
 <a href="https://web.facebook.com/phumrapee.soenvanichakul.3/">![Facebook](https://img.shields.io/badge/Facebook-4267B2?style=for-the-badge&logo=facebook&logoColor=white)</a>
 
 <a href="https://discord.gg/EWnAEUtFVm">![Discord](https://discord.c99.nl/widget/theme-1/297740667784921089.png)</a> 
+
+<h2>🏆 Github Trophies:</h2>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=saacsos&theme=discord&row=1)](https://github.com/ryo-ma/github-profile-trophy)
