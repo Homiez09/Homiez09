@@ -14,7 +14,7 @@ I'm Phumrapee Soenvanichakul!
 <!--START_SECTION:waka-->
 
 ```text
-Python           369 hrs 35 mins ████████████▓░░░░░░░░░░░░   50.58 %
+Python           369 hrs 35 mins ████████████▓░░░░░░░░░░░░   50.57 %
 C                117 hrs 29 mins ████░░░░░░░░░░░░░░░░░░░░░   16.08 %
 JavaScript       55 hrs          ██░░░░░░░░░░░░░░░░░░░░░░░   07.53 %
 C++              36 hrs 18 mins  █▒░░░░░░░░░░░░░░░░░░░░░░░   04.97 %
