@@ -14,11 +14,11 @@ I'm Phumrapee Soenvanichakul!
 <!--START_SECTION:waka-->
 
 ```txt
-Python             384 hrs 20 mins █████████▒░░░░░░░░░░░░░░░   37.06 %
-C                  154 hrs 13 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.87 %
-TypeScript         86 hrs 34 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.35 %
-JavaScript         71 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.89 %
-C++                69 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.70 %
+Python             384 hrs 20 mins █████████▒░░░░░░░░░░░░░░░   37.01 %
+C                  154 hrs 13 mins ███▓░░░░░░░░░░░░░░░░░░░░░   14.85 %
+TypeScript         86 hrs 34 mins  ██░░░░░░░░░░░░░░░░░░░░░░░   08.34 %
+JavaScript         71 hrs 27 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.88 %
+C++                69 hrs 30 mins  █▓░░░░░░░░░░░░░░░░░░░░░░░   06.69 %
 ```
 
 <!--END_SECTION:waka-->
