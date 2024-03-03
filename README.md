@@ -7,7 +7,7 @@
 
 I'm Phumrapee Soenvanichakul!
 
-- <i>Currently:</i> CS Student at KU.
+- <i>Currently:</i> CS Student at Kasetsart University.
 
 <h2>👀 Stats</h2>
 
