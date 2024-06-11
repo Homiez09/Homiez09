@@ -9,9 +9,19 @@ on:
 jobs:
   update-readme:
     name: Update this repo's README
-    runs-on: Ubuntu-22.04
+    runs-on: ubuntu-latest
     steps:
       - uses: athul/waka-readme@master
         with:
           WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
           TIME_RANGE: all_time
+          SHOW_TITLE: true # optional
+          SECTION_NAME: waka # optional
+          BLOCKS: -> # optional
+          CODE_LANG: rust # optional
+          LANG_COUNT: 10 # optional
+          SHOW_TIME: true # optional
+          SHOW_TOTAL: true # optional
+          SHOW_MASKED_TIME: false # optional
+          STOP_AT_OTHER: true # optional
+          IGNORED_LANGUAGES: YAML JSON TOML # optional
