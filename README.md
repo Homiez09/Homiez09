@@ -14,7 +14,7 @@ I'm Phumrapee Soenvanichakul!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 September 2021 - To: 28 August 2024
+From: 11 September 2021 - To: 29 August 2024
 
 Total Time: 2,149 hrs 11 mins
 
