@@ -7,7 +7,7 @@
 
 I'm Phumrapee Soenvanichakul!
 
-- <i>Currently:</i> A Computer Science student at Kasetsart University, passionate about software engineering.
+- <i>Currently:</i> A Computer Science student at Kasetsart University, passionate about software developer
 
 <h2>👀 Stats</h2>
 
