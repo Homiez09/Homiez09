@@ -14,19 +14,19 @@ I'm Phumrapee Soenvanichakul!
 <!--START_SECTION:waka-->
 
 ```rust
-From: 11 September 2021 - To: 28 March 2025
+From: 11 September 2021 - To: 29 March 2025
 
-Total Time: 2,742 hrs 38 mins
+Total Time: 2,750 hrs 19 mins
 
-TypeScript            928 hrs 24 mins >>>>>>>>-----------------   33.25 %
-Python                628 hrs 17 mins >>>>>>-------------------   22.50 %
-Java                  263 hrs 22 mins >>-----------------------   09.43 %
-C                     163 hrs 43 mins >------------------------   05.86 %
-C++                   105 hrs 20 mins >------------------------   03.77 %
-JavaScript            83 hrs 22 mins  >------------------------   02.99 %
-Bash                  54 hrs 17 mins  -------------------------   01.94 %
+TypeScript            930 hrs 31 mins >>>>>>>>-----------------   33.24 %
+Python                628 hrs 17 mins >>>>>>-------------------   22.44 %
+Java                  263 hrs 22 mins >>-----------------------   09.41 %
+C                     163 hrs 43 mins >------------------------   05.85 %
+C++                   105 hrs 20 mins >------------------------   03.76 %
+JavaScript            83 hrs 23 mins  >------------------------   02.98 %
+Bash                  54 hrs 40 mins  -------------------------   01.95 %
 Svelte                50 hrs 4 mins   -------------------------   01.79 %
-Other                 49 hrs 13 mins  -------------------------   01.76 %
+Other                 49 hrs 14 mins  -------------------------   01.76 %
 ```
 
 <!--END_SECTION:waka-->
